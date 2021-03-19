@@ -56,7 +56,7 @@ def main():
             else:
                 aux[email] = 1
             
-            print(aux)
+        print(aux)
 
 if __name__ == '__main__':
     main()
